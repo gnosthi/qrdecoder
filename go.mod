@@ -1,4 +1,4 @@
-module local_testing/qrdecode
+module github.com/gnosthi/qrdecode
 
 go 1.13
 
