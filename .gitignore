@@ -1,3 +1,4 @@
 qrdecode
 vendor/
 .idea/
+coverage-all.out
